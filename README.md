@@ -1,2 +1,2 @@
-# mangá_online
-Guardar projetos simples
+# Mangá_online
+Leitor de mangá online
